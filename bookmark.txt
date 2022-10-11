@@ -1,0 +1,6 @@
+CAU, 2021-01-02_15:49, http://www.cau.ac.kr, , 
+Naver, 2021-01-02_15:49, http://naver.com/, portal, Home
+Daum, 2021-01-02_15:49, http://www.daum.net/, portal, 
+EIRIC, 2021-01-02_15:49, http://eiric.or.kr, , 
+WooRi, 2021-01-02_15:49, http://www.woori.com/, bank, 
+KakaoBank, 2021-01-02_15:49, http://www.kakaobank.com/, bank, 
